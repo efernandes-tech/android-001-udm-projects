@@ -1,8 +1,8 @@
-# Scaffold - 001 - Android - Kotlin
+# Android - 001 - Udemy - Projects
 
 ## Overview
 
-A simple boilerplate for Android native development.
+Projects.
 
 ## Technology
 
@@ -13,13 +13,13 @@ A simple boilerplate for Android native development.
 ## Installation
 
 ```sh
-git clone https://github.com/efernandes-tech/scaffold-001-android-kotlin.git
-cd scaffold-001-android-kotlin
+git clone https://github.com/efernandes-tech/android-001-udm-projects.git
+cd android-001-udm-projects
 ```
 
-## Running the Project
+## Running Projects
 
-Open the project in Android Studio and run it on an emulator or a physical device.
+Open each project in Android Studio and run it on an emulator or a physical device.
 
 ## License
 
