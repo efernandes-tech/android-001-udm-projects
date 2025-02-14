@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "br.com.edersonfernandes.afirstproject"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "br.com.edersonfernandes.afirstproject"
